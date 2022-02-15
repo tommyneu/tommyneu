@@ -1,18 +1,18 @@
-<h1> Hi I'm Thomas Neumann </h1>
+<h1> Hi I'm Thomas Neumann 👋 </h1>
 
-<h2> About Me: </h2>
+<h2> 🦦 About Me: </h2>
 
 Dedicated and task driven developer who brought accessible and innovative web apps to 
 my hometown school district. I am excited to level up a new workplace and to learn more.
 I have a batchelors of Computer Science from North Central College. 
 
-<h2> Links </h2>
+<h2> 🔗 Links: </h2>
 
 Email: thomasneumann21800@gmail.com
 
 Linkedin: www.linkedin.com/in/thomas-neumann-dev
 
-<h2> Technology: </h2>
+<h2> 🖥 Technology: </h2>
 
 <h3> Languages </h3>
 
@@ -52,5 +52,10 @@ Linkedin: www.linkedin.com/in/thomas-neumann-dev
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+
+<h2> Stats: </h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommyneu&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- Links from https://github.com/Ileriayo/markdown-badges -->
