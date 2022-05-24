@@ -3,8 +3,9 @@
 <h2> 🦦 About Me: </h2>
 
 Dedicated and task driven developer who brought accessible and innovative web apps to 
-my hometown school district. I am excited to level up a new workplace and to learn more.
-I have a Batchelors of Science in Computer Science from North Central College. 
+my hometown's school district.
+I have a Batchelors of Science in Computer Science from North Central College in Naperville Illinois. 
+I am currently working at University of Nebraska Lincoln. 
 
 <h2> 🔗 Links: </h2>
 
