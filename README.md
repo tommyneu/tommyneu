@@ -84,4 +84,5 @@ Linkedin: www.linkedin.com/in/thomas-neumann-dev
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommyneu&layout=compact&theme=synthwave&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!-- Links from https://github.com/Ileriayo/markdown-badges -->
+<!-- Links: https://github.com/Ileriayo/markdown-badges -->
+<!-- Icons: https://simpleicons.org/ -->
