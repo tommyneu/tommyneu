@@ -4,8 +4,8 @@
 
 Dedicated and task driven developer who brought accessible and innovative web apps to 
 my hometown's school district.
-I have a Batchelors of Science in Computer Science from North Central College in Naperville Illinois. 
-I am currently working with University of Nebraska Lincoln's Digital Experience Group. 
+I have a Bachelors of Computer Science from North Central College in Naperville Illinois. 
+I am currently working at University of Nebraska Lincoln's Digital Experience Group. 
 
 <h2> 🔗 Links: </h2>
 
